@@ -65,7 +65,7 @@ After you've made sure to have the correct things (and versions) installed, you
 should be able to just run a few commands to get set up:
 
 ```
-git clone https://github.com/kentcdodds/react-fundamentals.git
+git clone https://github.com/chivandikwa/react-fundamentals.git
 cd react-fundamentals
 node setup
 ```
